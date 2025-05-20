@@ -65,7 +65,7 @@
 		"@ts-drp/message-queue": "0.11.0",
 		"@ts-drp/validation": "0.11.0",
 		"@types/node": "^22.5.4",
-		"commander": "^13.0.0",
+		"commander": "^14.0.0",
 		"dotenv": "^16.4.5",
 		"esbuild-plugins-node-modules-polyfill": "^1.7.0",
 		"race-event": "^1.3.0",
