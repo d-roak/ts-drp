@@ -64,7 +64,7 @@
 		"@ts-drp/utils": "0.11.0",
 		"@ts-drp/message-queue": "0.11.0",
 		"@ts-drp/validation": "0.11.0",
-		"@types/node": "^22.5.4",
+		"@types/node": "^24.0.1",
 		"commander": "^13.0.0",
 		"dotenv": "^16.4.5",
 		"esbuild-plugins-node-modules-polyfill": "^1.7.0",
